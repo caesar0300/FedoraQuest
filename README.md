@@ -1,5 +1,5 @@
 # FedoraQuest
-Remake using RenPy!
+Remake using RenPy! This is very new to me so bearwith for a bit ;)
 
 # Plot
 FedoraQuest is a game about a person who goes on a quest. That's about it really. It is developed by <s> a bunch of friends who thought 'why not' </s> highly advanced and professional game developers who did not initially plan it as a joke. FedoraQuest tells a truly 'inspiring' and 'meaningful' story that we can all learn a lesson from.
@@ -10,3 +10,6 @@ Also, as annoying as it may be, for FedoraQuestUI to run properly <b>ALL</b> the
 
 You dont need that good specs really. As long as you have 50mb of storage, python 3 or higher downloaded and Ren'Py you're good to go! Compiled releases may be released later on which won't require any extra packages.
 
+Feel free to contact me if you find any bugs, or have a suggestion!
+
+Alexander :)
