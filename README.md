@@ -13,3 +13,10 @@ You dont need that good specs really. As long as you have 50mb of storage, pytho
 Feel free to contact me if you find any bugs, or have a suggestion!
 
 Alexander :)
+
+# Credits
+<b> Alexander Thomas - Lead developer and head of project </b>
+
+<b> William Warhurst - @williamO007 - GUI design and graphics </b>
+
+<b> George Gibson - @fail0 - Original concept and <i> FedoraQuitter :0 </u> </b>
